@@ -1,15 +1,15 @@
 # project definitions
-project: mydoc_designers
+project: quassel_designers
 audience: designers
 product: doc
 platform: all
 version: all
 output: web
-destination: ../doc_outputs/mydoc/designers
+destination: ../doc_outputs/quassel/designers
 topnav_title: Jekyll Documentation Theme
 homepage_title: Jekyll doc theme for designers
 site_title: Jekyll theme for designers
-project_folder: mydoc
+project_folder: quassel
 company_name: Your company
 footer_image_location: ../common_images/company_logo.png
 github_editme_path: tomjohnson1492/documentation-theme-jekyll/edit/reviews

@@ -5,14 +5,14 @@ product: doc
 platform: all
 version: all
 output: web
-destination: ../doc_outputs/mydoc/designers
+destination: ../doc_outputs/quassel/designers
 topnav_title: Quassel IRC
 homepage_title: Quassel IRC
 site_title: Quassel IRC
-project_folder: mydoc
+project_folder: quassel
 company_name: Quassel IRC
 footer_image_location: ../common_images/bluemarine_logo.png
-github_editme_path: tomjohnson1492/documentation-theme-jekyll/edit/reviews
+github_editme_path: herrphon/quassel/edit/reviews
 disqus_shortname: quassel
 # variables
 
@@ -20,7 +20,7 @@ disqus_shortname: quassel
 sidebar_tagline: Quassel
 sidebar_version: Latest version 0.x.y
 theme_file: theme-blue.css
-pdf_file_name: mydoc_designers_pdf.pdf
+pdf_file_name: quassel_designers_pdf.pdf
 
 # the algolia entries here are experimental only.
 
@@ -35,11 +35,11 @@ exclude:
   - _site
   - _drafts
   - configs/
-  - doc/mydoc_writers*
+  - doc/quassel_writers*
 
 # same for all
 host: 127.0.0.1
-feedback_email: tomjohnson1492@gmail.com
+feedback_email: mail@quassel-irc.org
 
 highlighter: rouge
 markdown: kramdown
