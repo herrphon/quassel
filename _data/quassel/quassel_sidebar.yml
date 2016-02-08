@@ -37,7 +37,7 @@ entries:
     output: web, pdf
     items:
     - title: Introduction
-      url: /mydoc/home.html
+      url: /quassel/home.html
       audience: writers, designers
       platform: all
       product: all
@@ -45,7 +45,7 @@ entries:
       output: web, pdf
 
     - title: Supported features
-      url: /mydoc/mydoc_supported_features.html
+      url: /quassel/quassel_supported_features.html
       audience: writers, designers
       platform: all
       product: all
@@ -53,7 +53,7 @@ entries:
       output: web, pdf
 
     - title: About the theme author
-      url: /mydoc/mydoc_about.html
+      url: /quassel/quassel_about.html
       audience: writers, designers
       platform: all
       product: all
@@ -61,7 +61,7 @@ entries:
       output: web
 
     - title: Support
-      url: /mydoc/mydoc_support.html
+      url: /quassel/quassel_support.html
       audience: writers, designers
       platform: all
       product: all
@@ -76,7 +76,7 @@ entries:
     output: web, pdf
     items:
     - title: 1. Build the default project
-      url: /mydoc/mydoc_getting_started.html
+      url: /quassel/quassel_getting_started.html
       audience: writers, designers
       platform: all
       product: all
@@ -84,7 +84,7 @@ entries:
       output: web, pdf
 
     - title: 2. Add a new project
-      url: /mydoc/mydoc_adding_new_projects.html
+      url: /quassel/quassel_adding_new_projects.html
       audience: writers, designers
       platform: all
       product: all
@@ -92,7 +92,7 @@ entries:
       output: web, pdf
 
     - title: 3. Decide on your project's attributes
-      url: /mydoc/mydoc_decide_on_attributes.html
+      url: /quassel/quassel_decide_on_attributes.html
       audience: writers, designers
       platform: all
       product: all
@@ -100,7 +100,7 @@ entries:
       output: web, pdf
 
     - title: 4. Set the configuration options
-      url: /mydoc/mydoc_configuration_settings.html
+      url: /quassel/quassel_configuration_settings.html
       audience: writers, designers
       platform: all
       product: all
@@ -108,7 +108,7 @@ entries:
       output: web, pdf
 
     - title: 5. Customize the conditions file
-      url: /mydoc/mydoc_conditions_file_customization.html
+      url: /quassel/quassel_conditions_file_customization.html
       audience: writers, designers
       platform: all
       product: all
@@ -116,7 +116,7 @@ entries:
       output: web, pdf
 
     - title: 6. Configure the sidebar
-      url: /mydoc/mydoc_configure_sidebar.html
+      url: /quassel/quassel_configure_sidebar.html
       audience: writers, designers
       platform: all
       product: all
@@ -124,7 +124,7 @@ entries:
       output: web, pdf
 
     - title: 7. Configure the top navigation
-      url: /mydoc/mydoc_top_navigation.html
+      url: /quassel/quassel_top_navigation.html
       audience: writers, designers
       platform: all
       product: all
@@ -132,7 +132,7 @@ entries:
       output: web, pdf
 
     - title: 8. Customize the URL generator
-      url: /mydoc/mydoc_url_generator_customization.html
+      url: /quassel/quassel_url_generator_customization.html
       audience: writers, designers
       platform: all
       product: all
@@ -140,7 +140,7 @@ entries:
       output: web, pdf
 
     - title: 9. Set up Prince XML
-      url: /mydoc/mydoc_princexml_setup.html
+      url: /quassel/quassel_princexml_setup.html
       audience: writers, designers
       platform: all
       product: all
@@ -148,7 +148,7 @@ entries:
       output: web, pdf
 
     - title: 10. Configure the build scripts
-      url: /mydoc/mydoc_build_scripts.html
+      url: /quassel/quassel_build_scripts.html
       audience: writers, designers
       platform: all
       product: all
@@ -163,7 +163,7 @@ entries:
     output: web, pdf
     items:
     - title: Pages
-      url: /mydoc/mydoc_pages.html
+      url: /quassel/quassel_pages.html
       audience: writers, designers
       platform: all
       product: all
@@ -171,7 +171,7 @@ entries:
       output: web, pdf
 
     - title: WebStorm Text Editor
-      url: /mydoc/mydoc_webstorm_text_editor.html
+      url: /quassel/quassel_webstorm_text_editor.html
       audience: writers, designers
       platform: all
       product: all
@@ -179,7 +179,7 @@ entries:
       output: web, pdf
 
     - title: Conditional logic
-      url: /mydoc/mydoc_conditional_logic.html
+      url: /quassel/quassel_conditional_logic.html
       audience: writers, designers
       platform: all
       product: all
@@ -187,7 +187,7 @@ entries:
       output: web, pdf
 
     - title: Content reuse
-      url: /mydoc/mydoc_content_reuse.html
+      url: /quassel/quassel_content_reuse.html
       audience: writers, designers
       platform: all
       product: all
@@ -195,7 +195,7 @@ entries:
       output: web, pdf
 
     - title: Collections
-      url: /mydoc/mydoc_collections.html
+      url: /quassel/quassel_collections.html
       audience: writers, designers
       platform: all
       product: all
@@ -210,7 +210,7 @@ entries:
     output: web, pdf
     items:
     - title: Sidebar navigation
-      url: /mydoc/mydoc_sidebar_navigation.html
+      url: /quassel/quassel_sidebar_navigation.html
       audience: writers, designers
       platform: all
       product: all
@@ -218,7 +218,7 @@ entries:
       output: web, pdf
 
     - title: Working with YAML
-      url: /mydoc/mydoc_yaml_tutorial.html
+      url: /quassel/quassel_yaml_tutorial.html
       audience: writers, designers
       platform: all
       product: all
@@ -227,7 +227,7 @@ entries:
 
 
     - title: Tags
-      url: /mydoc/mydoc_tags.html
+      url: /quassel/quassel_tags.html
       audience: writers, designers
       platform: all
       product: all
@@ -235,7 +235,7 @@ entries:
       output: web, pdf
 
     - title: Series
-      url: /mydoc/mydoc_series.html
+      url: /quassel/quassel_series.html
       audience: writers, designers
       platform: all
       product: all
@@ -250,7 +250,7 @@ entries:
     output: web, pdf
     items:
     - title: Tooltips
-      url: /mydoc/mydoc_adding_tooltips.html
+      url: /quassel/quassel_adding_tooltips.html
       audience: writers, designers
       platform: all
       product: all
@@ -258,7 +258,7 @@ entries:
       output: web, pdf
 
     - title: Alerts
-      url: /mydoc/mydoc_alerts.html
+      url: /quassel/quassel_alerts.html
       audience: writers, designers
       platform: all
       product: all
@@ -266,7 +266,7 @@ entries:
       output: web, pdf
 
     - title: Icons
-      url: /mydoc/mydoc_icons.html
+      url: /quassel/quassel_icons.html
       audience: writers, designers
       platform: all
       product: all
@@ -274,7 +274,7 @@ entries:
       output: web, pdf
 
     - title: Images
-      url: /mydoc/mydoc_images.html
+      url: /quassel/quassel_images.html
       audience: writers, designers
       platform: all
       product: all
@@ -282,7 +282,7 @@ entries:
       output: web, pdf
 
     - title: Labels
-      url: /mydoc/mydoc_labels.html
+      url: /quassel/quassel_labels.html
       audience: writers, designers
       platform: all
       product: all
@@ -290,7 +290,7 @@ entries:
       output: web, pdf
 
     - title: Links
-      url: /mydoc/mydoc_hyperlinks.html
+      url: /quassel/quassel_hyperlinks.html
       audience: writers, designers
       platform: all
       product: all
@@ -298,7 +298,7 @@ entries:
       output: web, pdf
 
     - title: Navtabs
-      url: /mydoc/mydoc_navtabs.html
+      url: /quassel/quassel_navtabs.html
       audience: writers, designers
       platform: all
       product: all
@@ -306,7 +306,7 @@ entries:
       output: web, pdf
 
     - title: Video embeds
-      url: /mydoc/mydoc_video_embeds.html
+      url: /quassel/quassel_video_embeds.html
       audience: writers, designers
       platform: all
       product: all
@@ -314,7 +314,7 @@ entries:
       output: web, pdf
 
     - title: Tables
-      url: /mydoc/mydoc_tables.html
+      url: /quassel/quassel_tables.html
       audience: writers, designers
       platform: all
       product: all
@@ -322,7 +322,7 @@ entries:
       output: web, pdf
 
     - title: Syntax highlighting
-      url: /mydoc/mydoc_syntax_highlighting.html
+      url: /quassel/quassel_syntax_highlighting.html
       audience: writers, designers
       platform: all
       product: all
@@ -337,7 +337,7 @@ entries:
     output: web, pdf
     items:
     - title: Commenting on files
-      url: /mydoc/mydoc_commenting_on_files.html
+      url: /quassel/quassel_commenting_on_files.html
       audience: writers, designers
       platform: all
       product: all
@@ -353,7 +353,7 @@ entries:
     items:
 
     - title: Build arguments
-      url: /mydoc/mydoc_build_arguments.html
+      url: /quassel/quassel_build_arguments.html
       audience: writers, designers
       platform: all
       product: all
@@ -361,7 +361,7 @@ entries:
       output: web, pdf
 
     - title: Themes
-      url: /mydoc/mydoc_themes.html
+      url: /quassel/quassel_themes.html
       audience: writers, designers
       platform: all
       product: all
@@ -369,7 +369,7 @@ entries:
       output: web, pdf
 
     - title: Link validation
-      url: /mydoc/mydoc_link_validation.html
+      url: /quassel/quassel_link_validation.html
       audience: writers, designers
       platform: all
       product: all
@@ -377,7 +377,7 @@ entries:
       output: web, pdf
 
     - title: Check page title consistency
-      url: /mydoc/mydoc_title_checker.html
+      url: /quassel/quassel_title_checker.html
       audience: writers, designers
       platform: all
       product: all
@@ -385,7 +385,7 @@ entries:
       output: web, pdf
 
     - title: Generating PDFs
-      url: /mydoc/mydoc_generating_pdfs.html
+      url: /quassel/quassel_generating_pdfs.html
       audience: writers, designers
       platform: all
       product: all
@@ -393,7 +393,7 @@ entries:
       output: web, pdf
 
     - title: Excluding files
-      url: /mydoc/mydoc_excluding_files.html
+      url: /quassel/quassel_excluding_files.html
       audience: writers, designers
       platform: all
       product: all
@@ -401,7 +401,7 @@ entries:
       output: web, pdf
 
     - title: Help APIs and UI tooltips
-      url: /mydoc/mydoc_help_api.html
+      url: /quassel/quassel_help_api.html
       audience: writers, designers
       platform: all
       product: all
@@ -409,7 +409,7 @@ entries:
       output: web, pdf
 
     - title: Search configuration
-      url: /mydoc/mydoc_search_configuration.html
+      url: /quassel/quassel_search_configuration.html
       audience: writers, designers
       platform: all
       product: all
@@ -417,7 +417,7 @@ entries:
       output: web, pdf
 
     - title: iTerm profiles
-      url: /mydoc/mydoc_iterm_profiles.html
+      url: /quassel/quassel_iterm_profiles.html
       audience: writers, designers
       platform: all
       product: all
@@ -425,7 +425,7 @@ entries:
       output: web, pdf
 
     - title: Pushing builds to server
-      url: /mydoc/mydoc_push_build_to_server.html
+      url: /quassel/quassel_push_build_to_server.html
       audience: writers, designers
       platform: all
       product: all
@@ -433,7 +433,7 @@ entries:
       output: web, pdf
 
     - title: Getting around the password prompts in SCP
-      url: /mydoc/mydoc_no_password_prompts_scp.html
+      url: /quassel/quassel_no_password_prompts_scp.html
       audience: writers, designers
       platform: all
       product: all
@@ -449,7 +449,7 @@ entries:
     items:
 
     - title: Knowledge-base layout
-      url: /mydoc/mydoc_kb_layout.html
+      url: /quassel/quassel_kb_layout.html
       audience: writers, designers
       platform: all
       product: all
@@ -457,7 +457,7 @@ entries:
       output: web, pdf
 
     - title: Scroll layout
-      url: /mydoc/mydoc_scroll.html
+      url: /quassel/quassel_scroll.html
       audience: writers, designers
       platform: all
       product: all
@@ -465,7 +465,7 @@ entries:
       output: web, pdf
 
     - title: Shuffle layout
-      url: /mydoc/mydoc_shuffle.html
+      url: /quassel/quassel_shuffle.html
       audience: writers, designers
       platform: all
       product: all
@@ -473,7 +473,7 @@ entries:
       output: web, pdf
 
     - title: FAQ layout
-      url: /mydoc/mydoc_faq.html
+      url: /quassel/quassel_faq.html
       audience: writers, designers
       platform: all
       product: all
@@ -481,7 +481,7 @@ entries:
       output: web, pdf
 
     - title: Glossary layout
-      url: /mydoc/mydoc_glossary.html
+      url: /quassel/quassel_glossary.html
       audience: writers, designers
       platform: all
       product: all
@@ -497,7 +497,7 @@ entries:
     items:
 
     - title: Configuring Algolia search
-      url: /mydoc/mydoc_algoliasearch.html
+      url: /quassel/quassel_algoliasearch.html
       audience: writers, designers
       platform: all
       product: all
@@ -513,7 +513,7 @@ entries:
     items:
 
     - title: Mercurial notes and tips
-      url: /mydoc/mydoc_mercurial_collaboration.html
+      url: /quassel/quassel_mercurial_collaboration.html
       audience: writers, designers
       platform: all
       product: all
@@ -521,7 +521,7 @@ entries:
       output: web, pdf
 
 #    - title: Git notes and tips
-#      url: /mydoc/mydoc_git_collaboration.html
+#      url: /quassel/quassel_git_collaboration.html
 #      audience: writers, designers
 #      platform: all
 #      product: all
@@ -537,7 +537,7 @@ entries:
     items:
 
     - title: Troubleshooting
-      url: /mydoc/mydoc_troubleshooting.html
+      url: /quassel/quassel_troubleshooting.html
       audience: writers, designers
       platform: all
       product: all
@@ -553,7 +553,7 @@ entries:
     items:
 
     - title: Tag archives overview
-      url: /mydoc/mydoc_tag_archives_overview.html
+      url: /quassel/quassel_tag_archives_overview.html
       audience: writers, designers
       platform: all
       product: all
@@ -569,7 +569,7 @@ entries:
         output: web
         thirdlevelitems:
         - title: Getting started pages
-          url: /mydoc/tag_getting_started.html
+          url: /quassel/tag_getting_started.html
           audience: writers, designers
           platform: all
           version: all
@@ -577,7 +577,7 @@ entries:
           output: web
 
         - title: Formatting pages
-          url: /mydoc/tag_formatting.html
+          url: /quassel/tag_formatting.html
           audience: writers, designers
           platform: all
           version: all
@@ -585,7 +585,7 @@ entries:
           output: web
 
         - title: Navigation pages
-          url: /mydoc/tag_navigation.html
+          url: /quassel/tag_navigation.html
           audience: writers, designers
           platform: all
           version: all
@@ -593,7 +593,7 @@ entries:
           output: web
 
         - title: Content types pages
-          url: /mydoc/tag_content_types.html
+          url: /quassel/tag_content_types.html
           audience: writers, designers
           platform: all
           version: all
@@ -601,7 +601,7 @@ entries:
           output: web
 
         - title: Publishing pages
-          url: /mydoc/tag_publishing.html
+          url: /quassel/tag_publishing.html
           audience: writers, designers
           platform: all
           version: all
@@ -609,7 +609,7 @@ entries:
           output: web
 
         - title: Special layout pages
-          url: /mydoc/tag_special_layouts.html
+          url: /quassel/tag_special_layouts.html
           audience: writers, designers
           platform: all
           version: all
@@ -617,7 +617,7 @@ entries:
           output: web
 
         - title: Collaboration pages
-          url: /mydoc/tag_collaboration.html
+          url: /quassel/tag_collaboration.html
           audience: writers, designers
           platform: all
           version: all
