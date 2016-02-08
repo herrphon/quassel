@@ -12,8 +12,8 @@ site_title: Quassel IRC
 project_folder: quassel
 company_name: Quassel IRC
 footer_image_location: ../common_images/bluemarine_logo.png
-github_editme_path: herrphon/quassel/edit/reviews
-disqus_shortname: quassel
+github_editme_path: quassel/quassel/edit/reviews
+#disqus_shortname: quassel
 # variables
 
 
@@ -58,7 +58,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       search: true
   -
     scope:
@@ -66,7 +66,7 @@ defaults:
       type: "tooltips"
     values:
       layout: "page"
-      comments: true
+      comments: false
       search: true
       tooltip: true
 

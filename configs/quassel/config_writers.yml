@@ -12,8 +12,8 @@ site_title: Jekyll theme for writers
 project_folder: quassel
 company_name: Your company
 footer_image_location: ../common_images/company_logo.png
-github_editme_path: tomjohnson1492/documentation-theme-jekyll/edit/reviews
-disqus_shortname: idrbwjekyll
+github_editme_path: quassel/quassel/edit/reviews
+# disqus_shortname: quassel
 # variables
 
 
@@ -39,7 +39,7 @@ exclude:
 
 # same for all
 host: 127.0.0.1
-feedback_email: tomjohnson1492@gmail.com
+feedback_email: mail@quassel-irc.org
 
 highlighter: rouge
 markdown: kramdown
@@ -58,7 +58,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       search: true
   -
     scope:
@@ -66,7 +66,7 @@ defaults:
       type: "tooltips"
     values:
       layout: "page"
-      comments: true
+      comments: false
       search: true
       tooltip: true
 
