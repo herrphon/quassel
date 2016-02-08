@@ -1,5 +1,5 @@
 # project definitions
-project: mydoc_writers
+project: quassel_writers
 audience: writers
 product: doc
 platform: all
@@ -20,7 +20,7 @@ disqus_shortname: idrbwjekyll
 sidebar_tagline: Writers
 sidebar_version: Version 4.0
 theme_file: theme-green.css
-pdf_file_name: mydoc_writers_pdf.pdf
+pdf_file_name: quassel_writers_pdf.pdf
 
 # the algolia entries here are experimental only.
 
@@ -35,7 +35,7 @@ exclude:
   - _site
   - _drafts
   - configs/
-  - doc/mydoc_writers*
+  - doc/quassel_writers*
 
 # same for all
 host: 127.0.0.1
